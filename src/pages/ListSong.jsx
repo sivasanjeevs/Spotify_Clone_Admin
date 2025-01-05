@@ -55,7 +55,7 @@ const ListSong = () => {
 
   return (
     <div>
-      <p>All Ssongs List</p>
+      <p>All Songs List</p>
       <br />
       <div>
         <div className='sm:grid hidden grid-cols-[0.5fr_1fr_2fr_1fr_0.5fr] items-center gap-2.5 p-3 border border-gray-300 text-sm mr-5 bg-gray-100'>
